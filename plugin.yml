@@ -1,0 +1,5 @@
+main: se.le00nn.coloredchat.Colored
+version: 1.0.0-beta
+name: ColoredChat
+author: Le00nn
+description: Colors players name set in config.yml
