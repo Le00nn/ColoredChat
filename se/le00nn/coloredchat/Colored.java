@@ -1,6 +1,6 @@
 // Author: Le00nn
 // Date: 18/08/2023
-// Version: 1.0.0
+// Version: 1.0.0-beta
 
 package se.le00nn.coloredchat;
 
