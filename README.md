@@ -5,7 +5,7 @@ ColoredChat is a plugin made for Project Poseidon Uberbukkit (a fork of Craftbuk
 This plugin overrides the PlayerChatEvent and prevents your default message from being sent and instead broadcasts an edited version with coloring applied.
 Any use of other plugins altering chat through the PlayerChatEvent may hinder this plugin from functioning as intended! 
 
-### Project Poseiidon Uberbukkit source
+### Project Poseidon Uberbukkit source
 https://github.com/Moresteck/Project-Poseidon-Uberbukkit
 Here you can see how to go about building Project Poseidon Uberbukkit from source.
 
