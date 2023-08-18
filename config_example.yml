@@ -1,0 +1,12 @@
+settings:
+    reload:
+        enabled: true
+        info: Enable wether or not if the plugin should reload every 15 seconds. It is recommended to keep this enabled! Changing this configuration setting will require a server restart.
+players:
+    ExamplePlayer:
+        namecolor: '&c'
+        chatcolor: '&f'
+    ExamplePlayer2:
+        namecolor: '&a'
+        chatcolor: '&6'
+cfgversion: 1
